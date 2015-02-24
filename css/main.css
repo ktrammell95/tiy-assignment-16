@@ -1,0 +1,15 @@
+.section {
+  height: 250px;
+  width: 600px;
+  border: 2px solid #11c0db;
+}
+.section h2 {
+  margin: 0;
+  background-color: #11c0db;
+  height: 40px;
+  line-height: 40px;
+  color: #ffffff;
+}
+.section p {
+  background-color: #ffffff;
+}
