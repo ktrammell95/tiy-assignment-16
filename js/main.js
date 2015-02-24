@@ -6,6 +6,13 @@ $(function(){
         var preview = new Section(title);
         $el.append( preview.render() );
       });
+    $(".header").on("click", function() {
+    $(".paragraph").hide(1000);
+      });
+
+    $(".header").on("click", function() {
+    $(".paragraph").show();
+      });
     },
     error: function() {
       console.log("failed to load data.json");
