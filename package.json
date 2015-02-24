@@ -1,0 +1,21 @@
+{
+  "name": "tiy-assignment-16",
+  "version": "1.0.0",
+  "description": "slider and test scenarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "and",
+    "test",
+    "scenarios"
+  ],
+  "author": "Ktrammell",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-less": "^3.0.1"
+  }
+}

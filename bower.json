@@ -1,0 +1,23 @@
+{
+  "name": "tiy-assignment-16",
+  "version": "0.0.0",
+  "authors": [
+    "Katherine Trammell <ktrammell@gmail.com>"
+  ],
+  "description": "slider and test scenarios",
+  "keywords": [
+    "slider",
+    "and",
+    "test",
+    "scenarios"
+  ],
+  "license": "ISC",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
