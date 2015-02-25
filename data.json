@@ -1,14 +1,17 @@
 [
     {
-        "title": "Section One",
-        "paragraph": "At vero eos et accusamus et iusto odio dignissimos ducimus qui bla"
+        "title": "January 4, 2015",
+        "paragraph": "Today's beauty is a warm breeze, watching football by the water, and spending time with the person that makes my life completely wonderful",
+        "img_src": "images/image1.jpg"
     },
     {
-        "title": "Section Two",
-        "paragraph": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+        "title": "January 22, 2015",
+        "paragraph": "Today's beauty was easy to find. I lived my time in the butterfly gallery at the Detroit zoo and seeing butterflies down here always reminds me of that time. It was a time that allowed me to see whimsy and mystery that I had lost as I grew up.",
+        "img_src": "images/image2.jpg"
     },
     {
-        "title": "Section Three",
-        "paragraph": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+        "title": "February 4, 2015",
+        "paragraph": "Today's beauty was persistence. JavaScript does not come naturally for me but I know if I keep trying I will one day figure it out.",
+        "img_src": "images/image3.jpg"
     }
 ]
