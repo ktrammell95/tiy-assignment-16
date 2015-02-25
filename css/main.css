@@ -14,12 +14,7 @@
   line-height: 40px;
   color: #ffffff;
 }
-.container .content .header.open {
-  height: 100%;
-}
-.container .content .header.closed {
-  height: 0px;
-}
 .container .content .paragraph {
   background-color: #ffffff;
+  display: none;
 }
